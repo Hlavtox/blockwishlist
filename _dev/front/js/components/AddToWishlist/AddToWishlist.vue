@@ -94,7 +94,6 @@
       cursor: pointer;
       transition: 0.2s ease-out;
       height: 16px;
-      width: 79px;
       font-size: 14px;
       letter-spacing: 0;
       line-height: 16px;

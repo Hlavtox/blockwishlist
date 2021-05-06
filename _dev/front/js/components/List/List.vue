@@ -320,10 +320,7 @@
 
         &-title {
           color: #232323;
-          font-size: 16px;
           font-weight: bold;
-          letter-spacing: 0;
-          line-height: 22px;
           margin-bottom: 0;
 
           span {
